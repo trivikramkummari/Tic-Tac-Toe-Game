@@ -18,3 +18,10 @@ JavaScript: Implement game logic for turn management, win/draw detection, and re
 
 # Demo Video:
 https://github.com/trivikramkummari/Tic-Tac-Toe-Game/assets/168723593/3ef51535-63d0-434c-8e81-67dc066e0e4d
+
+# Access My Web Application Click the Link Below or Scan the QR Code:
+
+# URL: https://668a559c883556a2ab005bf9--tic-tac-toegameonline.netlify.app/
+
+# QR Code:
+![Tic-Tac-Toe Game QR Code](https://github.com/trivikramkummari/Tic-Tac-Toe-Game/assets/168723593/89af706c-a395-4c9e-a95a-80098b2e11db)
