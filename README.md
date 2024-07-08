@@ -21,7 +21,7 @@ https://github.com/trivikramkummari/Tic-Tac-Toe-Game/assets/168723593/3ef51535-6
 
 # Access My Web Application Click the Link Below or Scan the QR Code:
 
-# URL: https://668a559c883556a2ab005bf9--tic-tac-toegameonline.netlify.app/
+# URL: https://tic-tac-toegameonline.netlify.app/
 
 # QR Code:
-![Tic-Tac-Toe Game QR Code](https://github.com/trivikramkummari/Tic-Tac-Toe-Game/assets/168723593/89af706c-a395-4c9e-a95a-80098b2e11db)
+![Tic-Tac-Toe Game QR Code](https://github.com/trivikramkummari/Tic-Tac-Toe-Game/assets/168723593/fd4b5e44-bacd-4a82-bd56-0a8ea4396291)
